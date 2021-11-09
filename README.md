@@ -5,9 +5,13 @@ This is the source code of display website of USC 526 class project of Team Nine
 Game Name: Light Up The Earth
 
 Team Member: Shenqi Ye (Leader) [barryyeee](https://github.com/barryyeee)
+             
              Tianshu Wang [TianshuWang-GIT](https://github.com/TianshuWang-GIT)
+             
              Jackie Ye [JYe16](https://github.com/JYe16)
+             
              Yingqi Liang [yingqi0103](https://github.com/yingqi0103)
+             
              Xiaoxuan Sun [XiaoxuanSun](https://github.com/XiaoxuanSun)
 
 Game Download (coming soon)
