@@ -1,22 +1,37 @@
-# "Halcyon Days" One Page Website Template
+# CSCI-526: Light Up the Earth - Team Nine-AM Website
 
-"Halcyon Days" is a one page website template made by [Peter Finlan](http://peterfinlan.com/) exclusively for Codrops.
+This is the source code of display website of USC 526 class project of Team Nine-AM.
 
-[Download on Codrops](http://tympanus.net/codrops/2014/07/14/freebie-halcyon-days-one-page-website-template/)
+Game Name: Light Up The Earth
 
-[Demo](http://tympanus.net/Freebies/HalcyonDaysTemplate/)
+Team Member: Shenqi Ye (Leader) [barryyeee](https://github.com/barryyeee)
+             Tianshu Wang [TianshuWang-GIT](https://github.com/TianshuWang-GIT)
+             Jackie Ye [JYe16](https://github.com/JYe16)
+             Yingqi Liang [yingqi0103](https://github.com/yingqi0103)
+             Xiaoxuan Sun [XiaoxuanSun](https://github.com/XiaoxuanSun)
 
-## License
+Game Download (coming soon)
 
-Use it freely but please do not republish, distribute or sell "as-is". [Read more about our license.](http://tympanus.net/codrops/licensing/)
+[Demo](https://drive.google.com/file/d/16VKlXW1W6wnl2YNSCHYq3isEF9HIMfgo/view?usp=sharing)
 
-## Contributing
 
-I encourage contributions to all of my templates and I will endeavour to review all pull requests submitted.
+## Other Links (coming soon)
 
-Before contributing, please see the Contributing Guide (Coming soon).
+Game Design Document
 
-## Credits 
+Game Source Code
+
+Weekly Report
+
+Traking Form
+
+
+## Copyright
+
+Copyright © 2021 Team Nine-AM. All rights reserved. 
+
+
+## Credits
 
 ### Bootstrap
 
@@ -42,12 +57,6 @@ Before contributing, please see the Contributing Guide (Coming soon).
 
 [Font Awesome](http://fortawesome.github.io/Font-Awesome/) by Dave Gandy. Licensed under [MIT](http://opensource.org/licenses/mit-license.html)
 
-## Misc
+### Halcyon Days
 
-Follow Pete: [Twitter](https://twitter.com/peterfinlan), [Dribbble](http://www.dribbble.com/peterfinlan), [GitHub](https://github.com/peterfinlan)
-
-Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/pages/Codrops/159107397912), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/)
-
-[© Codrops 2015](http://www.codrops.com)
-
-
+[Halcyon Days](http://tympanus.net/Freebies/HalcyonDaysTemplate/) by Peter Finlan. Licensed under [MIT](http://tympanus.net/codrops/licensing/)
