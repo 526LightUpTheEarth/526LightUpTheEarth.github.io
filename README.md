@@ -20,7 +20,7 @@ Xiaoxuan Sun [XiaoxuanSun](https://github.com/XiaoxuanSun)
 
 ### Game Download (coming soon)
 
-### [Demo](https://drive.google.com/file/d/16VKlXW1W6wnl2YNSCHYq3isEF9HIMfgo/view?usp=sharing)
+### Demo (coming soon)
 
 
 ## Other Links (coming soon)
