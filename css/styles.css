@@ -126,6 +126,10 @@ button, input, select, textarea { font-size: 100%; /* 1 */
 *vertical-align: middle; /* 3 */ }
 /* * Addresses Firefox 3+ setting `line-height` on `input` using ` !important` in
 * the UA stylesheet. */
+#logo{
+	width:130px;
+	height:130px;
+}
 button, input { line-height: normal; }
 /* * 1. Avoid the WebKit bug in Android 4.0.* where (2) destroys native `audio`
 *    and `video` controls.
@@ -168,6 +172,10 @@ Tables
 ========================================================================== */
 /* * Remove most spacing between table cells. */
 table { border-collapse: collapse; border-spacing: 0; }
+#teamname{
+	color:white;
+}
+
 /* ==========================================================================
 Global Styles
 ========================================================================== */
@@ -198,7 +206,7 @@ nav ul li a { color: rgba(255, 255, 255, 0.6); display: block; padding: 20px; tr
 nav ul li a:hover, nav ul li a:focus { text-decoration: none; color: rgba(255, 255, 255, 1); }
 #nav-toggle { position: absolute; right: 15px; top: 0; }
 #nav-toggle { cursor: pointer; padding: 10px 35px 16px 0px; }
-#nav-toggle span, #nav-toggle span:before, #nav-toggle span:after { cursor: pointer; border-radius: 1px; -moz-border-radius: 1px; -webkit-border-radius: 1px; -o-border-radius: 1px; height: 5px; width: 35px; background: #3dc9b2; position: absolute; display: block; content: ''; }
+#nav-toggle span, #nav-toggle span:before, #nav-toggle span:after { cursor: pointer; border-radius: 1px; -moz-border-radius: 1px; -webkit-border-radius: 1px; -o-border-radius: 1px; height: 5px; width: 35px; background: ghostwhite; position: absolute; display: block; content: ''; }
 #nav-toggle span:before { top: -10px; }
 #nav-toggle span:after { bottom: -10px; }
 #nav-toggle span, #nav-toggle span:before, #nav-toggle span:after { transition: all 500ms ease-in-out; -webkit-transition: all 500ms ease-in-out; -moz-transition: all 500ms ease-in-out; -o-transition: all 500ms ease-in-out; }
@@ -282,7 +290,10 @@ CTA
 /* ==========================================================================
 Team
 ========================================================================== */
-.team img { margin-bottom: 40px; width: 50%;}
+#team{
+
+}
+.team img {margin-bottom: 40px; width: 50%;}
 .team p {font-size: 16px;}
 ul.social-buttons { list-style: none; margin: 0; padding: 0; }
 ul.social-buttons li { display: inline-block; margin-right: 10px; }
