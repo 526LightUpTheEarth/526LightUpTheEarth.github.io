@@ -130,6 +130,10 @@ button, input, select, textarea { font-size: 100%; /* 1 */
 	width:130px;
 	height:130px;
 }
+#contact{
+	background:url("../img/bg5.png");
+	background-size:1550px 700px;
+}
 button, input { line-height: normal; }
 /* * 1. Avoid the WebKit bug in Android 4.0.* where (2) destroys native `audio`
 *    and `video` controls.
