@@ -178,6 +178,7 @@ Tables
 table { border-collapse: collapse; border-spacing: 0; }
 #teamname{
 	color:white;
+	max-width:1000px;
 }
 
 /* ==========================================================================
