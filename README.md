@@ -18,26 +18,23 @@ Yingqi Liang [yingqi0103](https://github.com/yingqi0103)
              
 Xiaoxuan Sun [XiaoxuanSun](https://github.com/XiaoxuanSun)
 
-### Game Download (coming soon)
+### Game Download
 
+[Game Source Code](https://github.com/JYe16/Light_Up_The_Earth)
 ### Demo (coming soon)
 
 
-## Other Links (coming soon)
 
-Game Design Document
+## Other Links
 
-Game Source Code
+[Game Design Document](https://docs.google.com/document/d/1KYKHwlFBB9yRe_KKu-C4oFqz5vKUH_-xHBU_7JgEYyU/edit?usp=sharing)
 
-Weekly Report
 
-Traking Form
-
+[Weekly Report](https://drive.google.com/drive/folders/1-XZcaPyT2I9q_tIUE_bqI_LKD_5DaUdM)
 
 ## Copyright
 
 Copyright © 2021 Team Nine-AM. All rights reserved. 
-
 
 ## Credits
 
