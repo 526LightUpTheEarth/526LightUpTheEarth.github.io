@@ -21,9 +21,9 @@ Xiaoxuan Sun [XiaoxuanSun](https://github.com/XiaoxuanSun)
 ### Game Download
 
 [Game Source Code](https://github.com/JYe16/Light_Up_The_Earth)
-### Demo (coming soon)
+### Demo
 
-
+[Game Demo](https://youtu.be/ZwWFnWo8KwQ)
 
 ## Other Links
 
