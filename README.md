@@ -30,7 +30,7 @@ Xiaoxuan Sun [XiaoxuanSun](https://github.com/XiaoxuanSun)
 [Game Design Document](https://docs.google.com/document/d/1KYKHwlFBB9yRe_KKu-C4oFqz5vKUH_-xHBU_7JgEYyU/edit?usp=sharing)
 
 
-[Weekly Report](https://drive.google.com/drive/folders/1-XZcaPyT2I9q_tIUE_bqI_LKD_5DaUdM)
+[Weekly Report](https://drive.google.com/drive/folders/1Vegy230LI13f6nh3kw964m7RN_t9l46i?usp=sharing)
 
 ## Copyright
 
